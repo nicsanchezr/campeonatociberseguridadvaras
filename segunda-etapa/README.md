@@ -13,6 +13,9 @@ El archivo a analizar figura en este repositorio con nombre datos.pcapng , deber
 - Ip atacante
 - Ip cliente
 - Datos exfiltrados
+- Protocolos utilizados
+- Datos exfiltrados
+- Datos varios
 
 Los ganadores serán elegidos en base a la información entregada, rapidez y puntaje obtenido en primera etapa.
 ¡Buena Suerte!
